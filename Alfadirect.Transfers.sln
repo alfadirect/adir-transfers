@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alfadirect.Service", "Alfadirect.Service\Alfadirect.Service.csproj", "{67FA89F7-5A79-41D6-966F-E5B16C6835C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlfaDirect.Tests", "AlfaDirect.Tests\AlfaDirect.Tests.csproj", "{F9A2A774-6F53-413D-97C8-6A9CABEF38BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FA89F7-5A79-41D6-966F-E5B16C6835C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FA89F7-5A79-41D6-966F-E5B16C6835C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FA89F7-5A79-41D6-966F-E5B16C6835C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FA89F7-5A79-41D6-966F-E5B16C6835C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A2A774-6F53-413D-97C8-6A9CABEF38BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A2A774-6F53-413D-97C8-6A9CABEF38BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A2A774-6F53-413D-97C8-6A9CABEF38BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A2A774-6F53-413D-97C8-6A9CABEF38BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
